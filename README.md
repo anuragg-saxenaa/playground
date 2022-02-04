@@ -1,6 +1,6 @@
 # playground
 
-Install JDK on Mac abd set Java hoome
+Install JDK on Mac and set Java hoome
 
 /$ /usr/libexec/java_home -v<version number>
 /Library/Java/JavaVirtualMachines/jdk-14.jdk/Contents/Home
