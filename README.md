@@ -1,6 +1,6 @@
 # playground
 
-#How to install Java JDK Java Development Kit on mac.
+# How to install Java JDK Java Development Kit on mac.
 In Mac OS or later, Apple recommends to set the $JAVA_HOME variable to /usr/libexec/java_home, just export $JAVA_HOME in file ~/. bash_profile or ~/.profile.
 Find out where is JDK <version number>.
 
