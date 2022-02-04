@@ -14,7 +14,13 @@ Find out where is JDK <version number>.
 /Library/Java/JavaVirtualMachines/jdk-14.jdk/Contents/Home
 
 $ vim .bash_profile
-export JAVA_HOME=$(/usr/libexec/java_home)
+  
+export JAVA_HOME=export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home
+
+To refresh bash profile into the terminal  
+
+  source ~/.bash_profile    
 
 $ echo $JAVA_HOME
-/Library/Java/JavaVirtualMachines/jdk-14.jdk/Contents/Home
+  
+/Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home
