@@ -24,3 +24,6 @@ To refresh bash profile into the terminal
 $ echo $JAVA_HOME
   
 /Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home
+  
+  # private method weaving
+  https://github.com/meldmy/spring-aop-private-method-weaving
